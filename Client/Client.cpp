@@ -6,7 +6,7 @@
 
 #define PORT 8080
 #pragma comment(lib, "ws2_32.lib")
-#define ADDRESS "192.168.50.155"
+#define ADDRESS "192.168.xxx.xxx"
 
 using namespace std;
 
